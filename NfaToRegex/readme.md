@@ -1,2 +1,2 @@
-**Practical project of TOC**
+**TOC Practical project**<br >
 For each NFA there is a regular expression that identifies exactly the language of that NFA. Earlier in the lesson, we learned about the method of finding a regular expression equivalent to a given arbitrary NFA. In this way, NFA was first converted to GNFA, and then the intermediate states of GNFA were removed one by one; Until only its initial and final state remains. In this situation, the regular expression written on the GNFA edge was equivalent to the input NFA. Now we implement this learned algorithm in Python language.
